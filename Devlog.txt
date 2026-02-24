@@ -1,0 +1,110 @@
+atcks:
+
+Laser at player current pos - done
+ 
+Laser from sky - done
+
+Ball at player pos
+{
+mix mix DONE
+	Follow Ball at player pos
+		+
+	Spike all place and summon dashable balls
+		|
+		=>spike all place-Done,  summon a ball that follows the player slowly done ,   lower boss guard --dome,   for 3 seconds then back to idle - done
+}
+
+/this is what im doingg
+Teleport above and summon platform challange / dash challange and spike that go up aka race ting,
+
+
+ways to attack
+
+player has to hit the outer layer which then shows open which gota hit with dash and then retreat. -- doneee
+
+
+
+todo:
+PARTICLES PLEASEEE- done, kinda
+damage and stuff
+Guard mech
+stuff up thetre^^
+
+
+
+GOTTA DO:
+
+1.New boss
+2.Death manager of player and boss
+3.Cut scenes at end of each phase.
+4.Basic Ui stuff
+
+
+SO
+
+the player will have to dodge for 30 seconds, then will have to dodge and climb and then dodge a bit more..
+
+
+
+
+
+
+1.Random lazers that aim in random direction from random already set positin- done
+2.ground lazers half half -- done,
+\
+3.ground lazers alternating// maybe not
+\
+4.lazer that goes from middle which you gota dash to avoid- done
+5.the balls from start but alot more
+
+env for climb.
+
+1.a platforming challange- yes
+2.grounds spikes are slowly rising - doneee.
+3.lazers are at players position slowly and with a little error margin of 10deg - done.
+
+4.have to hit the ceiling 3 times to escape.
+5.same balls from earlier -nah it wont fit
+6.attack is slow btw- yesss
+
+
+
+
+
+
+
+
+SOO BOSSES ARE DONE FOR NOWWWWWWWWW
+
+
+to do is :
+UI as in esc menu - done,
+Death - done,
+MainMenu - done, FOR NOWW
+Cutscenes - also kindaaaa not completely
+Scene transition- almost done - donee
+
+// neda doo :
+also add boss entry anim and shake and stufff
+
+boss stages like about to die- maybe not idrk
+
+
+link all stages yk like by on killing boss transitioinnnssns - okie
+
+//
+
+ALSO ELEPHANT IN ROOOM:
+
+PLAYER SAVING AND STUFF -- seems easy enough (prolly do this first after doing all above)
+MUSIC -- ik its hard - ack fun ngl
+SOUND EFFECTSSS -- prolly gona hav to find somewhere
+cutscenes the graphical thing at the start of play - ima spend a day making them
+Hard and easy mode when im done with cutscenjes
+
+
+
+
+
+
+
