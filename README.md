@@ -1,2 +1,2 @@
-# Proj1
-Spirit Smasher Project. Trying to get it done
+# SpiritSmash
+A game about smashing an evil spirit:)
